@@ -1,0 +1,10 @@
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\bin\Debug\Inventory.exe
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.MainForm.resources
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.exe
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.pdb
