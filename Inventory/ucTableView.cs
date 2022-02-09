@@ -30,17 +30,31 @@ namespace Inventory
             loadUcItems();
         }
 
-        private void loadUcItems()
+        public void loadUcItems()
         {
-            if (!panel1.Controls.Contains(ucItems.Instance))
+            if (!panel2.Controls.Contains(ucItems.Instance))
             {
-                panel1.Controls.Add(ucItems.Instance);
+                panel2.Controls.Add(ucItems.Instance);
                 ucItems.Instance.Dock = DockStyle.Fill;
                 ucItems.Instance.BringToFront();
             }
             else
             {
                 ucItems.Instance.BringToFront();
+            }
+        }
+
+        public void loadUcCategories()
+        {
+            if (!panel2.Controls.Contains(ucCategories.Instance))
+            {
+                panel2.Controls.Add(ucCategories.Instance);
+                ucCategories.Instance.Dock = DockStyle.Fill;
+                ucCategories.Instance.BringToFront();
+            }
+            else
+            {
+                ucCategories.Instance.BringToFront();
             }
         }
 

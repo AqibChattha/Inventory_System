@@ -134,6 +134,7 @@ namespace Inventory
             this.button3.TabIndex = 2;
             this.button3.Text = "Category";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // btnItems
             // 
@@ -165,7 +166,7 @@ namespace Inventory
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.panel2.BackColor = System.Drawing.SystemColors.Control;
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 123);
             this.panel2.Name = "panel2";

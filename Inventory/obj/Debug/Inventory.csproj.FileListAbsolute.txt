@@ -10,3 +10,4 @@ C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inve
 C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.pdb
 C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.ucItems.resources
 C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.ucTableView.resources
+C:\Users\Aqib_Chattha\Documents\GitHub\Inventory_System\Inventory\obj\Debug\Inventory.ucCategories.resources

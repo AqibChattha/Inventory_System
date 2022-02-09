@@ -39,7 +39,12 @@ namespace Inventory
 
         private void btnItems_Click(object sender, EventArgs e)
         {
-            loadUcTableView();
+            ucTableView.Instance.loadUcItems();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ucTableView.Instance.loadUcCategories();
         }
     }
 }
